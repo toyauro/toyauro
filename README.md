@@ -29,9 +29,10 @@ I build small, sharp tooling for agents and terminals — currently focused on *
 
 - [`WASIDJ/.config`](https://github.com/WASIDJ/.config) — dotfiles: tmux / zsh / pi / terminal workflow
 - [`toyauro/toyauro`](https://github.com/toyauro/toyauro) — this profile README
+- [`toyauro.github.io`](https://toyauro.github.io) — Nuxt + Bun inner console, deployed from a phone
 - More soon → [`github.com/toyauro?tab=repositories`](https://github.com/toyauro?tab=repositories)
 
 ## Contact
 
 - GitHub: [@toyauro](https://github.com/toyauro)
-- Homepage: [`github.com/toyauro`](https://github.com/toyauro)
+- Homepage: [`toyauro.github.io`](https://toyauro.github.io)
